@@ -1,0 +1,26 @@
+html {
+    font-size: 12.9791px; /* 1rem = 12.9791px */
+  }
+  
+.header {
+    background-color: #fdfdf1;
+    padding: 1.6rem;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    padding-left: 1.875rem;
+    padding-right: 1.875rem;
+}
+
